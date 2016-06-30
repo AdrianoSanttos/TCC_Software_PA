@@ -1,0 +1,77 @@
+C:\Users\Adriano\Dropbox\TCC\TCC_PA\TCC_PA\bin\Debug\TCC_PA.exe.config
+C:\Users\Adriano\Dropbox\TCC\TCC_PA\TCC_PA\bin\Debug\TCC_PA.exe
+C:\Users\Adriano\Dropbox\TCC\TCC_PA\TCC_PA\bin\Debug\TCC_PA.pdb
+C:\Users\Adriano\Dropbox\TCC\TCC_PA\TCC_PA\obj\Debug\TCC_PA.csprojResolveAssemblyReference.cache
+C:\Users\Adriano\Dropbox\TCC\TCC_PA\TCC_PA\obj\Debug\TCC_PA.PA.resources
+C:\Users\Adriano\Dropbox\TCC\TCC_PA\TCC_PA\obj\Debug\TCC_PA.Properties.Resources.resources
+C:\Users\Adriano\Dropbox\TCC\TCC_PA\TCC_PA\obj\Debug\TCC_PA.csproj.GenerateResource.Cache
+C:\Users\Adriano\Dropbox\TCC\TCC_PA\TCC_PA\obj\Debug\TCC_PA.exe
+C:\Users\Adriano\Dropbox\TCC\TCC_PA\TCC_PA\obj\Debug\TCC_PA.pdb
+C:\Users\Play Mídia\Downloads\Gabaritos Mister Print\Corel\Adesivos\TCC\TCC\tcc_pa\TCC_PA\bin\Debug\TCC_PA.exe.config
+C:\Users\Play Mídia\Downloads\Gabaritos Mister Print\Corel\Adesivos\TCC\TCC\tcc_pa\TCC_PA\obj\Debug\TCC_PA.exe
+C:\Users\Play Mídia\Downloads\Gabaritos Mister Print\Corel\Adesivos\TCC\TCC\tcc_pa\TCC_PA\obj\Debug\TCC_PA.pdb
+C:\Users\Play Mídia\Downloads\Gabaritos Mister Print\Corel\Adesivos\TCC\TCC\tcc_pa\TCC_PA\bin\Debug\TCC_PA.exe
+C:\Users\Play Mídia\Downloads\Gabaritos Mister Print\Corel\Adesivos\TCC\TCC\tcc_pa\TCC_PA\bin\Debug\TCC_PA.pdb
+C:\Users\Play Mídia\Downloads\Gabaritos Mister Print\Corel\Adesivos\TCC\TCC\tcc_pa\TCC_PA\obj\Debug\TCC_PA.csprojResolveAssemblyReference.cache
+C:\Users\Play Mídia\Downloads\Gabaritos Mister Print\Corel\Adesivos\TCC\TCC\tcc_pa\TCC_PA\obj\Debug\TCC_PA.PA.resources
+C:\Users\Play Mídia\Downloads\Gabaritos Mister Print\Corel\Adesivos\TCC\TCC\tcc_pa\TCC_PA\obj\Debug\TCC_PA.Properties.Resources.resources
+C:\Users\Play Mídia\Downloads\Gabaritos Mister Print\Corel\Adesivos\TCC\TCC\tcc_pa\TCC_PA\obj\Debug\TCC_PA.csproj.GenerateResource.Cache
+C:\Users\Play Mídia\Downloads\Gabaritos Mister Print\Corel\Adesivos\TCC\TCC\tcc_pa\TCC_PA\obj\Debug\TCC_PA.Inicio.resources
+C:\Users\Play Mídia\Downloads\Gabaritos Mister Print\Corel\Adesivos\TCC\TCC\tcc_pa\TCC_PA\obj\Debug\TCC_PA.Recepcao.resources
+C:\Users\Play Mídia\Downloads\Gabaritos Mister Print\Corel\Adesivos\TCC\TCC\tcc_pa\TCC_PA\obj\Debug\TCC_PA.Pergunta2.resources
+C:\Users\Adriano\Dropbox\TCC\TCC_PA\TCC_PA\obj\Debug\TCC_PA.Inicio.resources
+C:\Users\Adriano\Dropbox\TCC\TCC_PA\TCC_PA\obj\Debug\TCC_PA.Pergunta2.resources
+C:\Users\Adriano\Dropbox\TCC\TCC_PA\TCC_PA\obj\Debug\TCC_PA.Recepcao.resources
+C:\Users\Caio\Documents\Caio\tcc_pa\TCC_PA\bin\Debug\TCC_PA.exe.config
+C:\Users\Caio\Documents\Caio\tcc_pa\TCC_PA\obj\Debug\TCC_PA.exe
+C:\Users\Caio\Documents\Caio\tcc_pa\TCC_PA\obj\Debug\TCC_PA.pdb
+C:\Users\Caio\Documents\Caio\tcc_pa\TCC_PA\bin\Debug\TCC_PA.exe
+C:\Users\Caio\Documents\Caio\tcc_pa\TCC_PA\bin\Debug\TCC_PA.pdb
+C:\Users\Caio\Documents\Caio\tcc_pa\TCC_PA\obj\Debug\TCC_PA.csprojResolveAssemblyReference.cache
+C:\Users\Caio\Documents\Caio\tcc_pa\TCC_PA\obj\Debug\TCC_PA.PA.resources
+C:\Users\Caio\Documents\Caio\tcc_pa\TCC_PA\obj\Debug\TCC_PA.Pergunta2.resources
+C:\Users\Caio\Documents\Caio\tcc_pa\TCC_PA\obj\Debug\TCC_PA.Properties.Resources.resources
+C:\Users\Caio\Documents\Caio\tcc_pa\TCC_PA\obj\Debug\TCC_PA.Recepcao.resources
+C:\Users\Caio\Documents\Caio\tcc_pa\TCC_PA\obj\Debug\TCC_PA.csproj.GenerateResource.Cache
+D:\Programas\Dropbox\TCC Compartilhado\tcc_pa\tcc_pa\TCC_PA\bin\Debug\TCC_PA.exe.config
+D:\Programas\Dropbox\TCC Compartilhado\tcc_pa\tcc_pa\TCC_PA\obj\Debug\TCC_PA.exe
+D:\Programas\Dropbox\TCC Compartilhado\tcc_pa\tcc_pa\TCC_PA\obj\Debug\TCC_PA.pdb
+D:\Programas\Dropbox\TCC Compartilhado\tcc_pa\tcc_pa\TCC_PA\bin\Debug\TCC_PA.exe
+D:\Programas\Dropbox\TCC Compartilhado\tcc_pa\tcc_pa\TCC_PA\bin\Debug\TCC_PA.pdb
+D:\Programas\Dropbox\TCC Compartilhado\tcc_pa\tcc_pa\TCC_PA\obj\Debug\TCC_PA.csprojResolveAssemblyReference.cache
+D:\Programas\Dropbox\TCC Compartilhado\tcc_pa\tcc_pa\TCC_PA\obj\Debug\TCC_PA.FormSintoma.resources
+D:\Programas\Dropbox\TCC Compartilhado\tcc_pa\tcc_pa\TCC_PA\obj\Debug\TCC_PA.PA.resources
+D:\Programas\Dropbox\TCC Compartilhado\tcc_pa\tcc_pa\TCC_PA\obj\Debug\TCC_PA.Pergunta2.resources
+D:\Programas\Dropbox\TCC Compartilhado\tcc_pa\tcc_pa\TCC_PA\obj\Debug\TCC_PA.Properties.Resources.resources
+D:\Programas\Dropbox\TCC Compartilhado\tcc_pa\tcc_pa\TCC_PA\obj\Debug\TCC_PA.Recepcao.resources
+D:\Programas\Dropbox\TCC Compartilhado\tcc_pa\tcc_pa\TCC_PA\obj\Debug\TCC_PA.csproj.GenerateResource.Cache
+C:\Users\Caio\Downloads\tcc_pa\TCC_PA\bin\Debug\TCC_PA.exe.config
+C:\Users\Caio\Downloads\tcc_pa\TCC_PA\obj\Debug\TCC_PA.exe
+C:\Users\Caio\Downloads\tcc_pa\TCC_PA\obj\Debug\TCC_PA.pdb
+C:\Users\Caio\Downloads\tcc_pa\TCC_PA\bin\Debug\TCC_PA.exe
+C:\Users\Caio\Downloads\tcc_pa\TCC_PA\bin\Debug\TCC_PA.pdb
+C:\Users\Caio\Downloads\tcc_pa\TCC_PA\obj\Debug\TCC_PA.csprojResolveAssemblyReference.cache
+C:\Users\Caio\Downloads\tcc_pa\TCC_PA\obj\Debug\TCC_PA.FormSintoma.resources
+C:\Users\Caio\Downloads\tcc_pa\TCC_PA\obj\Debug\TCC_PA.PA.resources
+C:\Users\Caio\Downloads\tcc_pa\TCC_PA\obj\Debug\TCC_PA.Pergunta2.resources
+C:\Users\Caio\Downloads\tcc_pa\TCC_PA\obj\Debug\TCC_PA.Properties.Resources.resources
+C:\Users\Caio\Downloads\tcc_pa\TCC_PA\obj\Debug\TCC_PA.Recepcao.resources
+C:\Users\Caio\Downloads\tcc_pa\TCC_PA\obj\Debug\TCC_PA.csproj.GenerateResource.Cache
+C:\Users\Caio\Downloads\tcc_pa\TCC_PA\obj\Debug\TCC_PA.Perfil.resources
+C:\Users\Caio\Documents\Caio\tcc_pa\TCC_PA\obj\Debug\TCC_PA.Perfil.resources
+C:\Users\Caio\Documents\Caio\tcc_pa\TCC_PA\obj\Debug\TCC_PA.Sintoma.resources
+C:\Users\Caio\Documents\Caio\tcc_pa\TCC_PA\obj\Debug\TCC_PA.Agendar.resources
+D:\Programas\Dropbox\TCC Compartilhado\tcc_pa\TCC_PA\bin\Debug\TCC_PA.exe.config
+D:\Programas\Dropbox\TCC Compartilhado\tcc_pa\TCC_PA\obj\Debug\TCC_PA.exe
+D:\Programas\Dropbox\TCC Compartilhado\tcc_pa\TCC_PA\obj\Debug\TCC_PA.pdb
+D:\Programas\Dropbox\TCC Compartilhado\tcc_pa\TCC_PA\bin\Debug\TCC_PA.exe
+D:\Programas\Dropbox\TCC Compartilhado\tcc_pa\TCC_PA\bin\Debug\TCC_PA.pdb
+D:\Programas\Dropbox\TCC Compartilhado\tcc_pa\TCC_PA\obj\Debug\TCC_PA.csprojResolveAssemblyReference.cache
+D:\Programas\Dropbox\TCC Compartilhado\tcc_pa\TCC_PA\obj\Debug\TCC_PA.Agendar.resources
+D:\Programas\Dropbox\TCC Compartilhado\tcc_pa\TCC_PA\obj\Debug\TCC_PA.Sintoma.resources
+D:\Programas\Dropbox\TCC Compartilhado\tcc_pa\TCC_PA\obj\Debug\TCC_PA.PA.resources
+D:\Programas\Dropbox\TCC Compartilhado\tcc_pa\TCC_PA\obj\Debug\TCC_PA.Perfil.resources
+D:\Programas\Dropbox\TCC Compartilhado\tcc_pa\TCC_PA\obj\Debug\TCC_PA.Pergunta2.resources
+D:\Programas\Dropbox\TCC Compartilhado\tcc_pa\TCC_PA\obj\Debug\TCC_PA.Properties.Resources.resources
+D:\Programas\Dropbox\TCC Compartilhado\tcc_pa\TCC_PA\obj\Debug\TCC_PA.Recepcao.resources
+D:\Programas\Dropbox\TCC Compartilhado\tcc_pa\TCC_PA\obj\Debug\TCC_PA.csproj.GenerateResource.Cache

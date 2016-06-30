@@ -1,0 +1,14 @@
+C:\Users\Caio\Documents\Caio\tcc_pa\TCC_PA\bin\Release\TCC_PA.exe.config
+C:\Users\Caio\Documents\Caio\tcc_pa\TCC_PA\bin\Release\TCC_PA.exe
+C:\Users\Caio\Documents\Caio\tcc_pa\TCC_PA\bin\Release\TCC_PA.pdb
+C:\Users\Caio\Documents\Caio\tcc_pa\TCC_PA\obj\Release\TCC_PA.Agendar.resources
+C:\Users\Caio\Documents\Caio\tcc_pa\TCC_PA\obj\Release\TCC_PA.Sintoma.resources
+C:\Users\Caio\Documents\Caio\tcc_pa\TCC_PA\obj\Release\TCC_PA.PA.resources
+C:\Users\Caio\Documents\Caio\tcc_pa\TCC_PA\obj\Release\TCC_PA.Perfil.resources
+C:\Users\Caio\Documents\Caio\tcc_pa\TCC_PA\obj\Release\TCC_PA.Pergunta2.resources
+C:\Users\Caio\Documents\Caio\tcc_pa\TCC_PA\obj\Release\TCC_PA.Properties.Resources.resources
+C:\Users\Caio\Documents\Caio\tcc_pa\TCC_PA\obj\Release\TCC_PA.Recepcao.resources
+C:\Users\Caio\Documents\Caio\tcc_pa\TCC_PA\obj\Release\TCC_PA.csproj.GenerateResource.Cache
+C:\Users\Caio\Documents\Caio\tcc_pa\TCC_PA\obj\Release\TCC_PA.exe
+C:\Users\Caio\Documents\Caio\tcc_pa\TCC_PA\obj\Release\TCC_PA.pdb
+C:\Users\Caio\Documents\Caio\tcc_pa\TCC_PA\obj\Release\TCC_PA.csprojResolveAssemblyReference.cache

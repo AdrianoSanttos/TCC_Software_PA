@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: TCC_PA, Configuration: Debug Any CPU ------
+1>CSC : error CS2012: Cannot open 'C:\Users\Play Mídia\Downloads\Gabaritos Mister Print\Corel\Adesivos\TCC\TCC\tcc_pa\TCC_PA\obj\Debug\TCC_PA.pdb' for writing -- 'Access to the path 'C:\Users\Play Mídia\Downloads\Gabaritos Mister Print\Corel\Adesivos\TCC\TCC\tcc_pa\TCC_PA\obj\Debug\TCC_PA.pdb' is denied.'
+1>C:\Program Files\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(4654,5): error MSB3491: Could not write lines to file "obj\Debug\TCC_PA.csproj.FileListAbsolute.txt". Access to the path 'C:\Users\Play Mídia\Downloads\Gabaritos Mister Print\Corel\Adesivos\TCC\TCC\tcc_pa\TCC_PA\obj\Debug\TCC_PA.csproj.FileListAbsolute.txt' is denied.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

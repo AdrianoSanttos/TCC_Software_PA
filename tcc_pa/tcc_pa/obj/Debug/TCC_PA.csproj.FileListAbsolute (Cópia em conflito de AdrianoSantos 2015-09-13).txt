@@ -1,0 +1,25 @@
+C:\Users\Adriano\Dropbox\TCC\TCC_PA\TCC_PA\bin\Debug\TCC_PA.exe.config
+C:\Users\Adriano\Dropbox\TCC\TCC_PA\TCC_PA\bin\Debug\TCC_PA.exe
+C:\Users\Adriano\Dropbox\TCC\TCC_PA\TCC_PA\bin\Debug\TCC_PA.pdb
+C:\Users\Adriano\Dropbox\TCC\TCC_PA\TCC_PA\obj\Debug\TCC_PA.csprojResolveAssemblyReference.cache
+C:\Users\Adriano\Dropbox\TCC\TCC_PA\TCC_PA\obj\Debug\TCC_PA.PA.resources
+C:\Users\Adriano\Dropbox\TCC\TCC_PA\TCC_PA\obj\Debug\TCC_PA.Properties.Resources.resources
+C:\Users\Adriano\Dropbox\TCC\TCC_PA\TCC_PA\obj\Debug\TCC_PA.csproj.GenerateResource.Cache
+C:\Users\Adriano\Dropbox\TCC\TCC_PA\TCC_PA\obj\Debug\TCC_PA.exe
+C:\Users\Adriano\Dropbox\TCC\TCC_PA\TCC_PA\obj\Debug\TCC_PA.pdb
+C:\Users\Play Mídia\Downloads\Gabaritos Mister Print\Corel\Adesivos\TCC\TCC\tcc_pa\TCC_PA\bin\Debug\TCC_PA.exe.config
+C:\Users\Play Mídia\Downloads\Gabaritos Mister Print\Corel\Adesivos\TCC\TCC\tcc_pa\TCC_PA\obj\Debug\TCC_PA.exe
+C:\Users\Play Mídia\Downloads\Gabaritos Mister Print\Corel\Adesivos\TCC\TCC\tcc_pa\TCC_PA\obj\Debug\TCC_PA.pdb
+C:\Users\Play Mídia\Downloads\Gabaritos Mister Print\Corel\Adesivos\TCC\TCC\tcc_pa\TCC_PA\bin\Debug\TCC_PA.exe
+C:\Users\Play Mídia\Downloads\Gabaritos Mister Print\Corel\Adesivos\TCC\TCC\tcc_pa\TCC_PA\bin\Debug\TCC_PA.pdb
+C:\Users\Play Mídia\Downloads\Gabaritos Mister Print\Corel\Adesivos\TCC\TCC\tcc_pa\TCC_PA\obj\Debug\TCC_PA.csprojResolveAssemblyReference.cache
+C:\Users\Play Mídia\Downloads\Gabaritos Mister Print\Corel\Adesivos\TCC\TCC\tcc_pa\TCC_PA\obj\Debug\TCC_PA.PA.resources
+C:\Users\Play Mídia\Downloads\Gabaritos Mister Print\Corel\Adesivos\TCC\TCC\tcc_pa\TCC_PA\obj\Debug\TCC_PA.Properties.Resources.resources
+C:\Users\Play Mídia\Downloads\Gabaritos Mister Print\Corel\Adesivos\TCC\TCC\tcc_pa\TCC_PA\obj\Debug\TCC_PA.csproj.GenerateResource.Cache
+C:\Users\Play Mídia\Downloads\Gabaritos Mister Print\Corel\Adesivos\TCC\TCC\tcc_pa\TCC_PA\obj\Debug\TCC_PA.Inicio.resources
+C:\Users\Play Mídia\Downloads\Gabaritos Mister Print\Corel\Adesivos\TCC\TCC\tcc_pa\TCC_PA\obj\Debug\TCC_PA.Pergunta1.resources
+C:\Users\Play Mídia\Downloads\Gabaritos Mister Print\Corel\Adesivos\TCC\TCC\tcc_pa\TCC_PA\obj\Debug\TCC_PA.Recepcao.resources
+C:\Users\Play Mídia\Downloads\Gabaritos Mister Print\Corel\Adesivos\TCC\TCC\tcc_pa\TCC_PA\obj\Debug\TCC_PA.Pergunta2.resources
+C:\Users\Guilherme Gomes\Dropbox\TCC\tcc_pa\TCC_PA\bin\Debug\TCC_PA.exe.config
+C:\Users\Guilherme Gomes\Dropbox\TCC\tcc_pa\TCC_PA\obj\Debug\TCC_PA.exe
+C:\Users\Guilherme Gomes\Dropbox\TCC\tcc_pa\TCC_PA\obj\Debug\TCC_PA.pdb
